@@ -48,20 +48,20 @@ following:
 
 ### Day 1
 
-Large-scale generative models for language and vision (including LLMs): How they work – and what we still do not know about them. _Constantine Dovrolis and Mihalis Nicolaou_ |
-PyTorch Neural Networks: Running on CPUs and GPUs. _Pantelis Georgiades_ |
-"Tensorization and uncertainty quantification in machine learning". _Yinchong Yang, Siemens AG_ |
-Streamlined Data Analysis with NBML: Harnessing AI Algorithms for Predictive Modelling. _Nikos Bakas_|
+> - Large-scale generative models for language and vision (including LLMs): How they work – and what we still do not know about them. _Constantine Dovrolis and Mihalis Nicolaou_
+> - PyTorch Neural Networks: Running on CPUs and GPUs. _Pantelis Georgiades_
+> - "Tensorization and uncertainty quantification in machine learning". _Yinchong Yang, Siemens AG_
+> - Streamlined Data Analysis with NBML: Harnessing AI Algorithms for Predictive Modelling. _Nikos Bakas_
 
 ### Day 2
 
-Efficient Data Cleaning and Pre-processing Techniques for Robust Machine Learning. _Charalambos Chrysostomou_|
-GPU CUDA Programming – Session 1. _Giannis Koutsou_|
-GPU CUDA Programming – Session 2. _Giannis Koutsou_|
+> - Efficient Data Cleaning and Pre-processing Techniques for Robust Machine Learning. _Charalambos Chrysostomou_
+> - GPU CUDA Programming – Session 1. _Giannis Koutsou_
+> - GPU CUDA Programming – Session 2. _Giannis Koutsou_
 
 <a name="certificate"></a>
 ## Certificate
 
 The certificate for the course can be found bellow:
 
-["Introduction to Scalable Deep" - Jülich Supercomputing Centre (JSC)]() (Issued On: May 2023)
+["Data analytics in the era of large-scale machine learning" - Greek National Competence Center)]() (Issued On: May 2023)
