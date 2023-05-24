@@ -12,11 +12,7 @@
 <a name="descripton"></a>
 ## Description
 
-This event was part of the EuroCC2 project and the National Competence Center activities, in collaboration with the Greek National Competence Center.
-
-More details [here](https://eurocc.cyi.ac.cy/data-analytics-in-the-era-of-large-scale-machine-learning/).
-
-The event provided training on the following subjects:
+This event was part of the EuroCC2 project and the National Competence Center activities, in collaboration with the Greek National Competence Center, and it provided training on the following subjects:
 
 - Large-scale generative models for language and vision (including LLMs): How they work – and what we still do not know about them
 - PyTorch Neural Networks: Running on CPUs and GPUs
