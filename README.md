@@ -1,7 +1,4 @@
 # Data analytics in the era of large-scale machine learning
-Training event of [EuroCC
-Cyprus](https://eurocc.cyi.ac.cy),
-May 23rd & 24th, 2023
 
 EuroCC@Greece announces the “Data analytics in the era of large-scale machine learning” Training Event, organised in collaboration with EuroCC@Greece & EuroCC@Cyprus, on May 23-24, on-site at The Cyprus Institute premises. The event will also be available to participants from Greece via Zoom.
 
