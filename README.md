@@ -1,8 +1,22 @@
-# Data analytics in the era of large-scale machine learning
+<p align="center">
+  <img src="images/banner.png">
+</p>
 
-EuroCC@Greece announces the “Data analytics in the era of large-scale machine learning” Training Event, organised in collaboration with EuroCC@Greece & EuroCC@Cyprus, on May 23-24, on-site at The Cyprus Institute premises. The event will also be available to participants from Greece via Zoom.
+## Table of Contents
+1. [Description](#description)
+2. [Information](#information)
+3. [Requirements](#requirements)
+4. [Syllabus Outline](#syllabus)
+5. [Certificate](#certificate)
 
-The event will provide training on the following subjects:
+<a name="descripton"></a>
+## Description
+
+This event was part of the EuroCC2 project and the National Competence Center activities, in collaboration with the Greek National Competence Center.
+
+More details [here](https://eurocc.cyi.ac.cy/data-analytics-in-the-era-of-large-scale-machine-learning/).
+
+The event provided training on the following subjects:
 
 - Large-scale generative models for language and vision (including LLMs): How they work – and what we still do not know about them
 - PyTorch Neural Networks: Running on CPUs and GPUs
@@ -10,15 +24,15 @@ The event will provide training on the following subjects:
 - Efficient Data Cleaning and Pre-processing Techniques for Robust Machine Learning
 - GPU CUDA Programming
 
-This event is part of the EuroCC2 project and the National Competence
-Center activities, in collaboration with the Greek National Competence
-Center. More details [here](https://eurocc.cyi.ac.cy/data-analytics-in-the-era-of-large-scale-machine-learning/).
+<a name="information"></a>
+## Information
 
-### Pre-requisites
-For following the hands-on practicals of the "GPU CUDA Programming"
-session, attendees should be familiar with programming in C/C++
+This event was part of the EuroCC2 project and the National Competence Center activities, in collaboration with the Greek National Competence Center.
 
-### Requirements
+More details [here](https://eurocc.cyi.ac.cy/data-analytics-in-the-era-of-large-scale-machine-learning/).
+
+<a name="requirements"></a>
+## Requirements
 All attendees will need to bring a laptop or tablet with the
 following:
 
@@ -33,28 +47,25 @@ following:
   SSH](https://code.visualstudio.com/docs/remote/ssh) extension or
   similar (for the "GPU CUDA Programming" session)
   
-### Agenda
+<a name="syllabus"></a>
+## Syllabus Outline
 
-#### Day 1 (Tuesday, 23rd May 2023)
+### Day 1
 
-| Time   | Subject & Speaker  |
-| :----: | :---      |
-| 09:45 - 10:00  | Introduction |
-| 10:00 - 11:15 | Large-scale generative models for language and vision (including LLMs): How they work – and what we still do not know about them. _Constantine Dovrolis and Mihalis Nicolaou_ |
-| 11:15 - 11:30  | Break |
-| 11:30 - 13:00  | PyTorch Neural Networks: Running on CPUs and GPUs. _Pantelis Georgiades_ |
-| 13:00 - 13:30  |Lunch Break|
-|13:30 - 14:30| **Research seminar**: "Tensorization and uncertainty quantification in machine learning". _Yinchong Yang, Siemens AG_ |
-|14:30 - 15:00| Break|
-|15:00 - 16:30| Streamlined Data Analysis with NBML: Harnessing AI Algorithms for Predictive Modelling. _Nikos Bakas_|
+Large-scale generative models for language and vision (including LLMs): How they work – and what we still do not know about them. _Constantine Dovrolis and Mihalis Nicolaou_ |
+PyTorch Neural Networks: Running on CPUs and GPUs. _Pantelis Georgiades_ |
+"Tensorization and uncertainty quantification in machine learning". _Yinchong Yang, Siemens AG_ |
+Streamlined Data Analysis with NBML: Harnessing AI Algorithms for Predictive Modelling. _Nikos Bakas_|
 
-#### Day 2 (Wednesday, 24th May 2023)
+### Day 2
 
-| Time| Subject & Speaker |
-| :----: | :---      |
-| 10:30 - 12:00| Efficient Data Cleaning and Pre-processing Techniques for Robust Machine Learning. _Charalambos Chrysostomou_|
-| 12:00 - 13:15| Lunch Break                |
-| 13:15 - 14:45| GPU CUDA Programming – Session 1. _Giannis Koutsou_|
-| 14:45 - 15:00| Break |
-| 15:00 - 16:30| GPU CUDA Programming – Session 2. _Giannis Koutsou_|
+Efficient Data Cleaning and Pre-processing Techniques for Robust Machine Learning. _Charalambos Chrysostomou_|
+GPU CUDA Programming – Session 1. _Giannis Koutsou_|
+GPU CUDA Programming – Session 2. _Giannis Koutsou_|
 
+<a name="certificate"></a>
+## Certificate
+
+The certificate for the course can be found bellow:
+
+["Introduction to Scalable Deep" - Jülich Supercomputing Centre (JSC)]() (Issued On: May 2023)
