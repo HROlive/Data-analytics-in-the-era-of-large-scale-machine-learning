@@ -3,6 +3,16 @@ Training event of [EuroCC
 Cyprus](https://eurocc.cyi.ac.cy),
 May 23rd & 24th, 2023
 
+EuroCC@Greece announces the “Data analytics in the era of large-scale machine learning” Training Event, organised in collaboration with EuroCC@Greece & EuroCC@Cyprus, on May 23-24, on-site at The Cyprus Institute premises. The event will also be available to participants from Greece via Zoom.
+
+The event will provide training on the following subjects:
+
+- Large-scale generative models for language and vision (including LLMs): How they work – and what we still do not know about them
+- PyTorch Neural Networks: Running on CPUs and GPUs
+- Streamlined Data Analysis with NBML: Harnessing AI Algorithms for Predictive Modelling
+- Efficient Data Cleaning and Pre-processing Techniques for Robust Machine Learning
+- GPU CUDA Programming
+
 This event is part of the EuroCC2 project and the National Competence
 Center activities, in collaboration with the Greek National Competence
 Center. More details [here](https://eurocc.cyi.ac.cy/data-analytics-in-the-era-of-large-scale-machine-learning/).
