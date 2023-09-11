@@ -62,6 +62,6 @@ following:
 <a name="certificate"></a>
 ## Certificate
 
-The certificate for the course can be found bellow:
+The certificate for the course can be found below:
 
 ["Data analytics in the era of large-scale machine learning" - Greek National Competence Center)]() (Issued On: May 2023)
